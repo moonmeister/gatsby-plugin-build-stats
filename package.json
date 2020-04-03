@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-plugin-build-stats",
+  "version": "1.0.0",
+  "description": "Stats about your gatsby site build. Page asize and JS bundle info.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "webpack-bundle-analyzer": "^3.6.1"
+  }
+}
